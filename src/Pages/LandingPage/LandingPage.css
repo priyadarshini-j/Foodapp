@@ -1,0 +1,31 @@
+.landing-left-portion {
+    width: 50%;
+}
+
+.landing-page-container {
+    display: flex;
+    height: 640px;
+}
+
+.landing-right-portion {
+    background-image: url("https://www.loanadvisor.sg/wp-content/uploads/2022/06/home-based-food-business-singapore.jpg");
+    width: 50%;
+    height: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.landing-left-portion {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.location-input {
+    width: 50%;
+    display: flex;
+}

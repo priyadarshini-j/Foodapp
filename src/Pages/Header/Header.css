@@ -1,0 +1,64 @@
+
+/* .header-logo > h2 {
+    font-size: 28px;
+    padding-left: 30px;
+    line-height: 28px;
+    cursor: pointer;
+}
+.header-logo {
+    display: flex;
+} */
+.header-logo > h2 {
+    font-size: 30px;
+    padding-left: 0px;
+    line-height: 28px;
+    cursor: pointer;
+    margin-top: 40px;
+    
+}
+.header-logo > img {
+    width: 70px;
+    padding-right: 0px;
+    margin-top: 0px;
+}
+.header-logo {
+    display:flex;
+    margin-left: 30px;
+}
+
+
+.location-portion {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.location-portion svg {
+    font-size: 30px;
+    margin-right: 0px;
+    margin-top: 10px;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+    height: 60px;
+    padding-bottom: 20px;
+}
+
+.login-portion {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.login-portion span {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.header-right-portion {
+    padding-right: 35px;
+}
