@@ -9,19 +9,19 @@ const Footer = (props) => {
             <div class="footer-col">
                 <h4>company</h4>
                 <ul>
-                    <li><a href="http://localhost:3000/AboutUs">about us</a></li><br></br>
+                    <li><a href="/AboutUs">about us</a></li><br></br>
                     {/* <li className="active"></li>
                     <Link to="/aboutus" className="Aboutus">Aboutus</Link> */}
-                    <li><a href="http://localhost:3000/OurServices">our services</a></li><br></br>
-                    <li><a href="http://localhost:3000/PrivacyPolicy">privacy policy</a></li>
+                    <li><a href="/OurServices">our services</a></li><br></br>
+                    <li><a href="/PrivacyPolicy">privacy policy</a></li>
                     {/* <li><a href="#">affiliate program</a></li> */}
                 </ul>
             </div>
             <div class="footer-col">
                 <h4>get help</h4>
                 <ul>
-                    <li><a href="http://localhost:3000/Shipping">shipping</a></li><br></br>
-                    <li><a href="http://localhost:3000/ContactUs">contact us</a></li>
+                    <li><a href="/Shipping">shipping</a></li><br></br>
+                    <li><a href="/ContactUs">contact us</a></li>
                 </ul>
             </div>
             <div class="footer-col">
